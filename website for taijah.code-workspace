@@ -1,8 +1,10 @@
 {
-	"folders": [
-		{
-			"path": ".."
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "../TaijahClough"
+        },
+        {
+            "path": "../extra code/TaijahClough-capstone"
+        }
+    ]
 }
