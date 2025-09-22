@@ -1,10 +1,11 @@
 body{
     background-color: #212d40;
+    color: #364156;
     text-align: 
-.roboto-slab-<uniquifier> {
+.roboto-slab-<uniquifier>
   font-family: "Roboto Slab", serif, arial;
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
-};
+
 }
