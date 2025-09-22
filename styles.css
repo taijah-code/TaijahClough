@@ -1,9 +1,7 @@
 body{
     background-color: #4e6488;
     text-align: font-family "Roboto Slab", serif, arial;
-    <link rel="preconnect" href="https://fonts.googleapis.com"
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Slab:wght@100..900&display=swap" rel="stylesheet">
+    
 }
 h1{
     color: #364156;
