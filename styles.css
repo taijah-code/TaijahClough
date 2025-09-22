@@ -1,8 +1,15 @@
 body{
-    background-color: #4e6488;
-    text-align: font-family "Roboto Slab", serif, arial;
-    
+    background-color: #33445f;
+    color: #ffffff
+    font-family: "Dancing Script", cursive, serif, "times new roman", arial;
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color: #ffffff
+}
 }
 h1{
-    color: #364156;
+    color: #ffffff;
+font-family:  font-family "Dancing Script" cursive, serif, Arial, Helvetica, sans-serif, "times new roman";
 }
