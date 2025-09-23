@@ -1,15 +1,56 @@
+*{
+    font-family: "Dancing Script", cursive, serif, "times new roman", arial;
+}
+
 body{
     background-color: #33445f;
-    color: #ffffff
-    font-family: "Dancing Script", cursive, serif, "times new roman", arial;
-  font-family: "Dancing Script", cursive;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-  color: #ffffff
-}
-}
-h1{
     color: #ffffff;
-font-family:  font-family "Dancing Script" cursive, serif, Arial, Helvetica, sans-serif, "times new roman";
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: #ffffff;
+    text-align: center;
+    line-height: normal;
+}
+h1 {
+    color: #aac7ee;
+    font-family:  font-family "Dancing Script" cursive, serif, Arial, Helvetica, sans-serif, "times new roman";
+    font-size: 45px;
+    font-weight: 900;
+    font-style: italic;
+}
+
+h2{
+    color: #aac7ee;
+}
+
+h3{ 
+    color: #aac7ee;
+}
+
+p {
+    color: rgb(159, 159, 231);
+    color: rgb(130, 110, 148);
+    /*color light lavender*/
+}
+
+header a{
+    color: rgb(172, 172, 235);
+    text-decoration: none;
+}
+
+h4{
+    color: #aac7ee;
+    line-height: 20%; 
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul{
+    list-style-position: inside;
 }
