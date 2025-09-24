@@ -3,7 +3,7 @@
 }
 
 body{
-    background-color: #33445f;
+    background-color: #052457;
     color: #ffffff;
     font-optical-sizing: auto;
     font-style: normal;
@@ -19,6 +19,14 @@ h1 {
     font-style: italic;
 }
 
+#title{
+    border-bottom: 4px solid rgb(160, 160, 241)
+}
+
+.title {
+    border-bottom: 4px solid rgb(169, 169, 228)
+}
+
 h2{
     color: #aac7ee;
 }
@@ -29,7 +37,7 @@ h3{
 
 p {
     color: rgb(159, 159, 231);
-    color: rgb(130, 110, 148);
+    color: rgb(87, 94, 180);
     /*color light lavender*/
 }
 
@@ -53,4 +61,26 @@ a:hover {
 
 ul{
     list-style-position: inside;
+}
+
+h5{
+    color:#aac7ee;
+    font-size: 20px;
+    line-height: 20%;
+}
+
+h6{
+    color:#aac7ee;
+    font-size: 20px;
+    line-height: 10%;
+    font-family: "dancing script", cursive, "tinmes new roman";
+}
+
+h7{ 
+    color:#aac7ee;
+    font-size: 20px;
+}
+
+.content-box{
+
 }
