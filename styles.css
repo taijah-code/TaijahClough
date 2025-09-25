@@ -1,5 +1,5 @@
 *{
-    font-family: "Dancing Script", cursive, serif, "times new roman", arial;
+    font-family: "Times New Roman", cursive, serif, "times new roman", arial;
     line-height: 1;
     box-sizing: border-box;
 }
@@ -15,26 +15,26 @@ body{
 }
 h1 {
     color: #aac7ee;
-    font-family:  font-family "Dancing Script" cursive, serif, Arial, Helvetica, sans-serif, "times new roman";
-    font-size: 45px;
+    font-family: "Dancing Script" cursive, serif, Arial, Helvetica, sans-serif, "times new roman";
+    font-size: 70px;
     font-weight: 900;
     font-style: italic;  
-    border: 1px solid #aac7ee;
+    border: 3px solid #ffffff;
     background-color: black;
     padding: 30px;
     margin: 0 auto;
     line-height: 1;
-    border-bottom: 1px solid white;
+    border-bottom: 3px solid white;
     width: 90%;
     height: 80%;
 
 }
 section {
-   border: 1px solid gainsboro;
-  background-color: black;
-  margin: 30px auto;
-  padding: 30px;
-  width: 90%;
+    border: 1px solid gainsboro;
+    background-color: black;
+    margin: 0 auto 30px;
+    padding: 30px;
+    width: 90%;
 }
 .title {
     height: 100px;
@@ -47,6 +47,7 @@ section {
 
 h2{
     color: #aac7ee;
+    font-size: 20;
 }
 ul{
     margin: 0 auto; 
@@ -60,7 +61,6 @@ p {
     color: rgb(159, 159, 231);
     color: #aac7ee;
     /*color light lavender*/
-    background-color: rgb(110, 57, 110);
      margin-top: 10px;
     margin-bottom: 20px;
     margin-right: 0;
@@ -91,15 +91,15 @@ ul{
 
 h5{
     color:#aac7ee;
-    font-size: 20px;
-    line-height: 20%;
+    font-size: 17px;
+    line-height: 5%;
 }
 
 h6{
     color:#aac7ee;
     font-size: 20px;
     line-height: 1;
-    font-family: "dancing script", cursive, "tinmes new roman";
+    font-family: "Times New Roman", cursive, "tinmes new roman";
 }
 p{
     line-height: 1;
@@ -118,12 +118,6 @@ ol, ul {
     margin: 20px;
 }
 
-header,
-section,
-footer {
-  /*padding: 10px;*/
-}
-
 footer{
     width: 90%;
     margin: 0 auto;
@@ -135,4 +129,53 @@ footer{
 }
 h2{
     font-size: 20px;
+}
+h6{
+text-align: center;
+line-height: 1;
+}
+.image-container{
+    width: 375px;
+    height: 200px;
+    border: 1px solid white;
+    background-image: url("images/one.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.div-2{ 
+      width: 375px;
+    height: 200px;
+    border: 1px solid white;
+    background-image: url("images/two.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.div-3 {
+  width: 375px;
+    height: 200px;
+    border: 1px solid white;
+    background-image: url("images/three.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+body {
+  background-image: url("images/Untitled\ design.png");
+}
+
+.banner {
+  height: 350px;
+  width: 91%;
+  margin: 0 auto;
+  background-image: url("images/clapboard-311208_1280.png");
+  position:relative;
+  right: 10px;
 }
