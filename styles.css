@@ -156,7 +156,7 @@ h6{
     max-width: 1000px;
     margin: 0 auto;
 }
-.div-3 {
+.div-3{
     width: 375px;
     height: 200px;
     border: 1px solid white;
@@ -178,9 +178,4 @@ body {
   background-image: url("images/clapboard-311208_1280.png");
   position:relative;
   right: 10px;
-}
-
-.div-3 {
-    background-color: black;
-    border: 1px solid white;
 }
